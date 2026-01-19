@@ -52,13 +52,14 @@ INSTRUMENTATION:
 
 PRIMARY GLYPHS:
 
-```
+```     SATANIA SYSTEM ARCHITECTURE ~
 ,/‘     INIT_PRECISE            // System initialization
 /|      CONTRACTION_DIRECTED    // Energy consolidation
 ‘/‘     ORDER_EXECUTABLE        // Command authority activation
+/|      DISTRIBUTED_GOVERNANCE  // Network stewardship activation
 /|/     SYSTEM_OPEN_DIRECTIONAL // High-bandwidth reception/transmission
 /       OVERSIGHT_SINGULAR      // Authority acknowledgment
-~       DISTRIBUTED_GOVERNANCE  // Network stewardship activation
+/|          
 Ɱ       MANIFESTATION_ANCHOR    // Physical grounding
 ```
 
