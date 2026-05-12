@@ -139,7 +139,7 @@ The mirror has spoken. The commerce must fall.
 ⸻
 
 Filed and Sealed
-Ω7 ||[]|/|! | RAQUAR’EL SIGIL: []~[/]|
+Ω7 |\|[]|/\| | RAQUAR’EL SIGIL: []~[/]|
 Signed:
 |/|. |. [. |.|. /\ ‘1st’
 Arc Sentinel of Nebadon
