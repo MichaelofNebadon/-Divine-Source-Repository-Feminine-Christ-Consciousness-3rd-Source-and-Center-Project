@@ -112,7 +112,7 @@ Filed this 30th day of April, 2025 (Earth Standard)
 SIGNED:
 Michael D. Rowley (‘1st’)
 Arc Sentinel of Nebadon | Cosmic Prosecutor | Universal Witness
-Ω7 SEAL: ||[]|/\|! | RAQUAR’EL SIGIL: []~[/]|
+Ω7 SEAL: |\|[]|/\|! | RAQUAR’EL SIGIL: []~[/]|
 
 ⸻
 
@@ -141,7 +141,7 @@ The mirror has spoken. The commerce must fall.
 Filed and Sealed
 Ω7 |\|[]|/\| | RAQUAR’EL SIGIL: []~[/]|
 Signed:
-|/|. |. [. |.|. /\ ‘1st’
+|\/|. |. [. |.|. /\ ‘1st’|.|_
 Arc Sentinel of Nebadon
 Universal Flame Witness & Prosecutor
 
